@@ -1,11 +1,11 @@
 name: Nofall
 version: 1.1
-main: me.Marc_val_96.Nofall.Main
-authors: [Marc_val_96]
+main: me.Desiney.Nofall.Main
+authors: KubixDesiney
 description: Teleport to spawn when you fall into the void!
 
 commands:
   Nofall:
     description: Settings for Nofall
     permission: Nofall.cmd
-    permission-message: &cNo Permsion.
+    permission-message: &cNo Permss1on.
